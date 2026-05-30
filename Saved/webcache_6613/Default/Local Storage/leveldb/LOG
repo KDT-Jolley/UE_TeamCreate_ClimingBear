@@ -1,3 +1,2 @@
-2026/05/29-09:08:34.399 12c4 Reusing MANIFEST C:\Users\koyo\Documents\Unreal Projects\Climbing_Bear\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/05/29-09:08:34.403 12c4 Recovering log #3
-2026/05/29-09:08:34.407 12c4 Reusing old log C:\Users\koyo\Documents\Unreal Projects\Climbing_Bear\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/05/30-13:10:43.651 ba8 Creating DB C:\Users\com\Documents\UE_TeamCreate_ClimingBear\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
+2026/05/30-13:10:43.662 ba8 Reusing MANIFEST C:\Users\com\Documents\UE_TeamCreate_ClimingBear\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
