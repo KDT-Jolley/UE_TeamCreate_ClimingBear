@@ -1,2 +1,7 @@
-2026/06/26-16:30:17.076 6b08 Creating DB C:\Users\koyo\Documents\UE_TeamCreate_ClimingBear\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
-2026/06/26-16:30:17.093 6b08 Reusing MANIFEST C:\Users\koyo\Documents\UE_TeamCreate_ClimingBear\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/06/27-14:35:19.206 4e68 Reusing MANIFEST C:\Users\com\Documents\UE_TeamCreate_ClimingBear\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/06/27-14:35:19.210 4e68 Recovering log #4
+2026/06/27-14:35:19.210 4e68 Level-0 table #6: started
+2026/06/27-14:35:19.215 4e68 Level-0 table #6: 80390 bytes OK
+2026/06/27-14:35:19.215 4e68 Recovering log #5
+2026/06/27-14:35:19.217 4e68 Reusing old log C:\Users\com\Documents\UE_TeamCreate_ClimingBear\Saved\webcache_6613\Default\Local Storage\leveldb/000005.log 
+2026/06/27-14:35:19.219 4e68 Delete type=0 #4
