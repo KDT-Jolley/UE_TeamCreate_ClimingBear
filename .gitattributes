@@ -41,3 +41,6 @@ Content/Rain_Forest/Textures/Vegetations/T_Crocus_Diffuse.uasset filter=lfs diff
 Content/Rain_Forest/Meshes/Vegetations/SM_Elm11.uasset filter=lfs diff=lfs merge=lfs -text
 Content/Rain_Forest/Meshes/Vegetations/SM_Elm10.uasset filter=lfs diff=lfs merge=lfs -text
 Content/Rain_Forest/Meshes/Vegetations/SM_Elm07.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Rain_Forest/Textures/Vegetations/T__Hydrangea_N.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Rain_Forest/Textures/Vegetations/T__Hydrangea_D.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Rain_Forest/Textures/Vegetations/T_WeepingWillowBranch_SRM.uasset filter=lfs diff=lfs merge=lfs -text
