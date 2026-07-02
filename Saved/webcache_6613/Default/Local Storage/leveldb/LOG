@@ -1,3 +1,15 @@
 2026/07/02-15:18:43.359 718c Reusing MANIFEST D:\UE\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
 2026/07/02-15:18:43.375 718c Recovering log #3
 2026/07/02-15:18:43.379 718c Reusing old log D:\UE\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/07/02-15:27:56.877 34c8 Level-0 table #5: started
+2026/07/02-15:27:56.883 34c8 Level-0 table #5: 63145 bytes OK
+2026/07/02-15:27:56.888 34c8 Delete type=0 #3
+2026/07/02-15:30:56.881 34c8 Level-0 table #7: started
+2026/07/02-15:30:56.887 34c8 Level-0 table #7: 71530 bytes OK
+2026/07/02-15:30:56.888 34c8 Delete type=0 #4
+2026/07/02-15:33:56.885 34c8 Level-0 table #9: started
+2026/07/02-15:33:56.891 34c8 Level-0 table #9: 70714 bytes OK
+2026/07/02-15:33:56.893 34c8 Delete type=0 #6
+2026/07/02-15:36:56.881 34c8 Level-0 table #11: started
+2026/07/02-15:36:56.939 34c8 Level-0 table #11: 70722 bytes OK
+2026/07/02-15:36:56.940 34c8 Delete type=0 #8

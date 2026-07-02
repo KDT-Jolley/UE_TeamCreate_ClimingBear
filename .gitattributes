@@ -30,3 +30,14 @@ Content/Rain_Forest/BaseMaterial/Testires/T_Voronoi_Perturbed_4k.uasset filter=l
 Content/Rain_Forest/BaseMaterial/Testires/T_NoiseMask_RGB.uasset filter=lfs diff=lfs merge=lfs -text
 Content/Rain_Forest/BaseMaterial/Testires/T_MacroVariation.uasset filter=lfs diff=lfs merge=lfs -text
 Content/LevelPrototyping/Level/Map_Image.umap filter=lfs diff=lfs merge=lfs -text
+Content/Rain_Forest/Textures/Vegetations/T_English_lvy_ART.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Rain_Forest/Textures/Vegetations/T_ElmBranch01_SRM.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Rain_Forest/Textures/Vegetations/T_ElmBranch01_N.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Rain_Forest/Textures/Vegetations/T_ElmBranch01_D.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Rain_Forest/Textures/Vegetations/T_Digitalis_Diffuse.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Rain_Forest/Textures/Vegetations/Dahlia_Diffuse.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Rain_Forest/Textures/Vegetations/T_Dahlia_Diffuse.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Rain_Forest/Textures/Vegetations/T_Crocus_Diffuse.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Rain_Forest/Meshes/Vegetations/SM_Elm11.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Rain_Forest/Meshes/Vegetations/SM_Elm10.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Rain_Forest/Meshes/Vegetations/SM_Elm07.uasset filter=lfs diff=lfs merge=lfs -text
