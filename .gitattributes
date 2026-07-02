@@ -44,3 +44,12 @@ Content/Rain_Forest/Meshes/Vegetations/SM_Elm07.uasset filter=lfs diff=lfs merge
 Content/Rain_Forest/Textures/Vegetations/T__Hydrangea_N.uasset filter=lfs diff=lfs merge=lfs -text
 Content/Rain_Forest/Textures/Vegetations/T__Hydrangea_D.uasset filter=lfs diff=lfs merge=lfs -text
 Content/Rain_Forest/Textures/Vegetations/T_WeepingWillowBranch_SRM.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Rain_Forest/Textures/Vegetations/T_Bush05_D.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Rain_Forest/Textures/Vegetations/T_Bush04_SRM.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Rain_Forest/Textures/Vegetations/T_Bush04_N.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Rain_Forest/Textures/Vegetations/T_Bush04_D.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Rain_Forest/Textures/Vegetations/T_Broom_Creeper_N.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Rain_Forest/Textures/Vegetations/T_Broom_Creeper_D.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Rain_Forest/Textures/Vegetations/T_Broom_Creeper_Billboard_N.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Rain_Forest/Textures/Vegetations/T_Broom_Creeper_Billboard_D.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Rain_Forest/Textures/Landscape/T_Rock_Cliff_2K_Normal.uasset filter=lfs diff=lfs merge=lfs -text
