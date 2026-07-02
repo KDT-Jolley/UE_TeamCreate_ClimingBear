@@ -103,15 +103,34 @@ Content/Rain_Forest/Textures/Landscape/T_Foronoi_Perturbed_4k.uasset diff=lfs me
 Content/Rain_Forest/Textures/Landscape/T_Snow_Displacement.uasset diff=lfs merge=lfs -text
 Content/Rain_Forest/Textures/Landscape/T_Rocky_Ground_2K_Specular.uasset diff=lfs merge=lfs -text
 Content/Rain_Forest/Textures/Landscape/T_Rocky_Ground_2K_Roughness.uasset diff=lfs merge=lfs -text
-Content/Rain_Forest/Textures/Vegetations/T_Field_Poppy_Billboard_N.uasset
-Content/Rain_Forest/Textures/Vegetations/T_Field_Poppy_Billboard_D.uasset
-Content/Rain_Forest/Textures/Vegetations/T_FieldPoppy_Billboard_ART.uasset
-Content/Rain_Forest/Textures/Vegetations/T_FieldPoppy_ART.uasset
-Content/Rain_Forest/Textures/Vegetations/T_English_Ivy_billboard_ART.uasset
-Content/Rain_Forest/Textures/Vegetations/T_English_Ivy_N.uasset
-Content/Rain_Forest/Textures/Vegetations/T_English_Ivy_D.uasset
-Content/Rain_Forest/Textures/Vegetations/T_English_Ivy_Billboard_N.uasset
-Content/Rain_Forest/Textures/Vegetations/T_English_Ivy_Billboard_D.uasset
-Content/Rain_Forest/Textures/Vegetations/T_Bush05_SRM.uasset
-
+Content/Rain_Forest/Textures/Vegetations/T_Field_Poppy_Billboard_N.uasset diff=lfs merge=lfs -text
+Content/Rain_Forest/Textures/Vegetations/T_Field_Poppy_Billboard_D.uasset diff=lfs merge=lfs -text
+Content/Rain_Forest/Textures/Vegetations/T_FieldPoppy_Billboard_ART.uasset diff=lfs merge=lfs -text
+Content/Rain_Forest/Textures/Vegetations/T_FieldPoppy_ART.uasset diff=lfs merge=lfs -text
+Content/Rain_Forest/Textures/Vegetations/T_English_Ivy_billboard_ART.uasset diff=lfs merge=lfs -text
+Content/Rain_Forest/Textures/Vegetations/T_English_Ivy_N.uasset diff=lfs merge=lfs -text
+Content/Rain_Forest/Textures/Vegetations/T_English_Ivy_D.uasset diff=lfs merge=lfs -text
+Content/Rain_Forest/Textures/Vegetations/T_English_Ivy_Billboard_N.uasset diff=lfs merge=lfs -text
+Content/Rain_Forest/Textures/Vegetations/T_English_Ivy_Billboard_D.uasset diff=lfs merge=lfs -text
+Content/Rain_Forest/Textures/Vegetations/T_Bush05_SRM.uasset diff=lfs merge=lfs -text
+Content/Rain_Forest/Meshes/Vegetations/SM_Hydrangea_E.uasset diff=lfs merge=lfs -text
+Content/Rain_Forest/Meshes/Vegetations/SM_Hydrangea_D.uasset diff=lfs merge=lfs -text
+Content/Rain_Forest/Meshes/Vegetations/SM_Hydrangea_C.uasset diff=lfs merge=lfs -text
+Content/Rain_Forest/Meshes/Vegetations/SM_Elm17.uasset diff=lfs merge=lfs -text
+Content/Rain_Forest/Meshes/Vegetations/SM_Elm16.uasset diff=lfs merge=lfs -text
+Content/Rain_Forest/Meshes/Vegetations/SM_Elm15.uasset diff=lfs merge=lfs -text
+Content/Rain_Forest/Meshes/Vegetations/SM_Elm14.uasset diff=lfs merge=lfs -text
+Content/Rain_Forest/Meshes/Vegetations/SM_Elm13.uasset diff=lfs merge=lfs -text
+Content/Rain_Forest/Meshes/Vegetations/SM_Elm12.uasset diff=lfs merge=lfs -text
+Content/Real_Stones_Pack_01/Textures/T_Stone_04_AO.uasset diff=lfs merge=lfs -text
+Content/Rain_Forest/Textures/Vegetations/T_Field_Poppy_N.uasset diff=lfs merge=lfs -text
+Content/Rain_Forest/Textures/Vegetations/T_Field_Poppy_D.uasset diff=lfs merge=lfs -text
+Content/Rain_Forest/Meshes/Vegetations/SM_Ivy2_06.uasset diff=lfs merge=lfs -text
+Content/Rain_Forest/Meshes/Vegetations/SM_Ivy2_05.uasset diff=lfs merge=lfs -text
+Content/Rain_Forest/Meshes/Vegetations/SM_Ivy2_04.uasset diff=lfs merge=lfs -text
+Content/Rain_Forest/Meshes/Vegetations/SM_Ivy2_03.uasset diff=lfs merge=lfs -text
+Content/Rain_Forest/Meshes/Vegetations/SM_Ivy2_02.uasset diff=lfs merge=lfs -text
+Content/Rain_Forest/Meshes/Vegetations/SM_Ivy2_01.uasset diff=lfs merge=lfs -text
+Content/Rain_Forest/Meshes/Vegetations/SM_Hydrangea_M.uasset diff=lfs merge=lfs -text
+Content/Rain_Forest/Meshes/Vegetations/SM_Hydrangea_L.uasset diff=lfs merge=lfs -text
 
