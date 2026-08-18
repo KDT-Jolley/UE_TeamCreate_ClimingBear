@@ -14,8 +14,8 @@
 	{
 		"MajorVersion": 5,
 		"MinorVersion": 7,
-		"PatchVersion": 4,
-		"Changelist": 51494982,
+		"PatchVersion": 2,
+		"Changelist": 49658320,
 		"CompatibleChangelist": 47537391,
 		"IsLicenseeVersion": 0,
 		"IsPromotedBuild": 0,
@@ -24,33 +24,6 @@
 	},
 	"BuildProducts": [
 		{
-<<<<<<< HEAD
-=======
-			"Path": "$(ProjectDir)/Binaries/Win64/UnrealEditor-Climbing_Bear.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(ProjectDir)/Binaries/Win64/UnrealEditor-Climbing_Bear.pdb",
-			"Type": "SymbolFile"
-		},
-		{
-			"Path": "$(ProjectDir)/Binaries/Win64/UnrealEditor.modules",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/Marketplace/DataSerialization/Binaries/Win64/UnrealEditor-DataSerialization.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/Marketplace/DataSerialization/Binaries/Win64/UnrealEditor-DataSerialization.pdb",
-			"Type": "SymbolFile"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/Marketplace/DataSerialization/Binaries/Win64/UnrealEditor.modules",
-			"Type": "RequiredResource"
-		},
-		{
->>>>>>> 17e84648068e2421701d96ede4c9d0a9af161c98
 			"Path": "$(EngineDir)/Binaries/Win64/AgentInterface.dll",
 			"Type": "DynamicLibrary"
 		},
@@ -2183,26 +2156,6 @@
 			"Type": "RequiredResource"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Bridge/Binaries/Win64/UnrealEditor-Bridge.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Bridge/Binaries/Win64/UnrealEditor-Bridge.pdb",
-			"Type": "SymbolFile"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Bridge/Binaries/Win64/UnrealEditor-MegascansPlugin.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Bridge/Binaries/Win64/UnrealEditor-MegascansPlugin.pdb",
-			"Type": "SymbolFile"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Bridge/Binaries/Win64/UnrealEditor.modules",
-			"Type": "RequiredResource"
-		},
-		{
 			"Path": "$(EngineDir)/Plugins/Cameras/CameraShakePreviewer/Binaries/Win64/UnrealEditor-CameraShakePreviewer.dll",
 			"Type": "DynamicLibrary"
 		},
@@ -3287,18 +3240,6 @@
 			"Type": "RequiredResource"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Fab/Binaries/Win64/UnrealEditor-Fab.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Fab/Binaries/Win64/UnrealEditor-Fab.pdb",
-			"Type": "SymbolFile"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Fab/Binaries/Win64/UnrealEditor.modules",
-			"Type": "RequiredResource"
-		},
-		{
 			"Path": "$(EngineDir)/Plugins/Importers/AlembicImporter/Binaries/Win64/UnrealEditor-AlembicImporter.dll",
 			"Type": "DynamicLibrary"
 		},
@@ -4313,7 +4254,6 @@
 		{
 			"Path": "$(EngineDir)/Plugins/XGEController/Binaries/Win64/UnrealEditor.modules",
 			"Type": "RequiredResource"
-<<<<<<< HEAD
 		},
 		{
 			"Path": "$(ProjectDir)/Binaries/Win64/UnrealEditor-Climbing_Bear.dll",
@@ -4338,23 +4278,10 @@
 		{
 			"Path": "$(ProjectDir)/Plugins/Marketplace/DataSerialization/Binaries/Win64/UnrealEditor.modules",
 			"Type": "RequiredResource"
-=======
->>>>>>> 17e84648068e2421701d96ede4c9d0a9af161c98
 		}
 	],
 	"RuntimeDependencies": [
 		{
-<<<<<<< HEAD
-=======
-			"Path": "$(ProjectDir)/Climbing_Bear.uproject",
-			"Type": "UFS"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/Marketplace/DataSerialization/DataSerialization.uplugin",
-			"Type": "UFS"
-		},
-		{
->>>>>>> 17e84648068e2421701d96ede4c9d0a9af161c98
 			"Path": "$(EngineDir)/Binaries/ThirdParty/DbgHelp/dbghelp.dll",
 			"Type": "NonUFS"
 		},
@@ -28139,10 +28066,6 @@
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Bridge/Bridge.uplugin",
-			"Type": "UFS"
-		},
-		{
 			"Path": "$(EngineDir)/Plugins/Cameras/CameraShakePreviewer/CameraShakePreviewer.uplugin",
 			"Type": "UFS"
 		},
@@ -28547,10 +28470,6 @@
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Fab/Fab.uplugin",
-			"Type": "UFS"
-		},
-		{
 			"Path": "$(EngineDir)/Plugins/Importers/AlembicImporter/AlembicImporter.uplugin",
 			"Type": "UFS"
 		},
@@ -28877,7 +28796,6 @@
 		{
 			"Path": "$(EngineDir)/Plugins/XGEController/XGEController.uplugin",
 			"Type": "UFS"
-<<<<<<< HEAD
 		},
 		{
 			"Path": "$(ProjectDir)/Climbing_Bear.uproject",
@@ -28886,8 +28804,6 @@
 		{
 			"Path": "$(ProjectDir)/Plugins/Marketplace/DataSerialization/DataSerialization.uplugin",
 			"Type": "UFS"
-=======
->>>>>>> 17e84648068e2421701d96ede4c9d0a9af161c98
 		}
 	],
 	"BuildPlugins": [
@@ -28921,7 +28837,6 @@
 		"BaseMaterial",
 		"BlendSpaceMotionAnalysis",
 		"BlueprintHeaderView",
-		"Bridge",
 		"CLionSourceCodeAccess",
 		"CableComponent",
 		"CameraShakePreviewer",
@@ -28970,7 +28885,6 @@
 		"EnhancedInput",
 		"EnvironmentQueryEditor",
 		"ExampleDeviceProfileSelector",
-		"Fab",
 		"FacialAnimation",
 		"Fracture",
 		"FullBodyIK",
