@@ -1,3 +1,2 @@
-2026/09/03-19:56:46.073 1600 Reusing MANIFEST C:\Users\koyo\Documents\UE_TeamCreate_ClimingBear\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/09/03-19:56:46.078 1600 Recovering log #3
-2026/09/03-19:56:46.080 1600 Reusing old log C:\Users\koyo\Documents\UE_TeamCreate_ClimingBear\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/09/05-13:00:45.676 12f8 Creating DB C:\Users\com\Documents\UE_TeamCreate_ClimingBear\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
+2026/09/05-13:00:45.688 12f8 Reusing MANIFEST C:\Users\com\Documents\UE_TeamCreate_ClimingBear\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
