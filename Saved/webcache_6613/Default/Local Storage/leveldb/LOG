@@ -1,2 +1,5 @@
-2026/10/09-16:29:11.330 17dc Creating DB C:\Users\koyo\Documents\UE_TeamCreate_ClimingBear\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
-2026/10/09-16:29:11.350 17dc Reusing MANIFEST C:\Users\koyo\Documents\UE_TeamCreate_ClimingBear\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/10/10-13:17:16.728 678 Creating DB C:\Users\com\Documents\UE_TeamCreate_ClimingBear\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
+2026/10/10-13:17:16.740 678 Reusing MANIFEST C:\Users\com\Documents\UE_TeamCreate_ClimingBear\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/10/10-16:09:21.105 2e90 Level-0 table #5: started
+2026/10/10-16:09:21.108 2e90 Level-0 table #5: 73079 bytes OK
+2026/10/10-16:09:21.110 2e90 Delete type=0 #3
